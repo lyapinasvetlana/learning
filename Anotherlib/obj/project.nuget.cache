@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+WziRgOq2PqZ741UmO+tBiGZbJ7wZ3mehgomQOTN3nhILMSfPJRuCTWKFJPXXLOR1bzm5L1THalZ2RClvnFCw==",
+  "success": true,
+  "projectFilePath": "C:\\vseexamples\\Anotherlib\\Anotherlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lyapi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lyapi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

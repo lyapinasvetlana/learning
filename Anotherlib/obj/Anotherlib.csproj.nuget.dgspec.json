@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vseexamples\\Calculator\\Calculator.csproj": {}
+    "C:\\vseexamples\\Anotherlib\\Anotherlib.csproj": {}
   },
   "projects": {
-    "C:\\vseexamples\\Calculator\\Calculator.csproj": {
+    "C:\\vseexamples\\Anotherlib\\Anotherlib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vseexamples\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\vseexamples\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\vseexamples\\Anotherlib\\Anotherlib.csproj",
+        "projectName": "Anotherlib",
+        "projectPath": "C:\\vseexamples\\Anotherlib\\Anotherlib.csproj",
         "packagesPath": "C:\\Users\\lyapi\\.nuget\\packages\\",
-        "outputPath": "C:\\vseexamples\\Calculator\\obj\\",
+        "outputPath": "C:\\vseexamples\\Anotherlib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lyapi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,10 +43,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
             }
           },
           "imports": [

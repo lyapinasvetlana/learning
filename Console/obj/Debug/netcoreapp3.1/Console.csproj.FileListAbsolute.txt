@@ -11,3 +11,7 @@ C:\vseexamples\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.
 C:\vseexamples\Console\obj\Debug\netcoreapp3.1\Console.dll
 C:\vseexamples\Console\obj\Debug\netcoreapp3.1\Console.pdb
 C:\vseexamples\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+C:\vseexamples\Console\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\vseexamples\Console\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\vseexamples\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\vseexamples\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

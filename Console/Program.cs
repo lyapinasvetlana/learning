@@ -1,5 +1,6 @@
 ﻿
 using System;
+using Vs.Calculator;
 namespace Vs.Vers{
     class Program
     {
@@ -7,7 +8,8 @@ namespace Vs.Vers{
         {   int x=10;
             int y=x+2;
 
-            Console.WriteLine("x+y={0}", Calculator.Sum(x,y));
+            Console.WriteLine("x+y={0}", Calc.Sum(x,y));
+            Console.WriteLine(Calc.ToJson(100,200));
         }
     }
 
