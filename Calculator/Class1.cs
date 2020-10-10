@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calculator
+namespace Vs.Calculator
 {
     public static class Calculator
     {
