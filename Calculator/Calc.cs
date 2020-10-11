@@ -9,7 +9,7 @@ namespace Vs.Calculator
          return a+b;
        }
        public static string ToJson(int a, int b){
-           var t= new {x=a,y=b};
+           var t= new {x=a*2,y=b};
            return JsonConvert.SerializeObject(t);
        }
     }
